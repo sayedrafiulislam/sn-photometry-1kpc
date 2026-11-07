@@ -1,0 +1,32 @@
+
+==========================================================================
+LOCAL B-V WITHIN 1 kpc
+==========================================================================
+  sample                     : 84 objects
+  exclusion flag             : flag_exclude
+
+  median, dereddened         : 0.6601 mag   95% CI [0.6046, 0.7191]
+  median, observed           : 0.6931 mag
+  extinction correction      : -0.0330 mag
+
+  16th-84th percentile       : 0.4484 - 0.9363 mag
+  interquartile range        : 0.5122 - 0.8407 mag
+  robust scatter (sigma_MAD) : 0.2260 mag
+  full range                 : +0.1479 to +1.4221 mag
+
+  median per-object error    : 0.1120 mag  (LOWER BOUND --
+    zero points and the SFD map term only. Omits photon noise,
+    background uncertainty, flat-field error, and the flux-dependent
+    annulus systematic.)
+
+  scatter/error ratio        : 2.02
+    Above ~1.5 the spread exceeds the errors, so some of it is
+    plausibly intrinsic. Quantifying how much requires the full
+    error budget, which is not yet available.
+
+  SAMPLE CAVEAT: CSP-II only. The supplied du Pont zero points do not
+  cover CSP-I, so 97 objects with a measured colour are lost at the
+  calibration stage (all CSP-I except ASAS14lq; see
+  calibrated_colour_1kpc_exclusions.csv). That is a cut by survey
+  epoch, not by data quality.
+==========================================================================

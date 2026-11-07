@@ -1,0 +1,4 @@
+annulus_inner_kpc,annulus_outer_kpc,n_frames,n_annulus_ok,n_rows_total,n_rows_both_guards_ok,median_bkg_per_pixel,n_frames_usable_at_1kpc,median_flux_at_1kpc,n_negative_at_1kpc,output_file
+10.0,15.0,442,442,11492,11492,1.648455560207367,442,4454.242307423502,29,curve_of_growth_ann10-15.csv
+15.0,25.0,442,440,11492,11440,0.37769507616758347,440,4689.203138056753,20,curve_of_growth_ann15-25.csv
+20.0,30.0,442,436,11492,11336,0.1762675642967224,436,4705.740359781004,18,curve_of_growth_ann20-30.csv

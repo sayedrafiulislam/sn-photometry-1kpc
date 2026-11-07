@@ -1,0 +1,33 @@
+# --- Python environment and caches -------------------------------------
+# Rebuild with: python -m venv .venv ; pip install -r requirements-lock.txt
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Timestamped backups written by the pipeline ------------------------
+# The scripts never overwrite; they rename old outputs to *.bak_YYYYmmdd_HHMMSS.
+# Git now keeps that history, so the copies are not committed.
+*.bak_*
+
+# --- Old copies of scripts (version control replaces these) -------------
+scripts_backup_original/
+
+# --- Drafts, zip snapshots and private notes ----------------------------
+# The manuscript lives on Overleaf; this folder holds PDFs, zips and study notes.
+Output/
+
+# --- Generated listings --------------------------------------------------
+folder_tree.txt
+
+# --- Raw imaging data (kept outside the repository, see RUN_ORDER.md) ---
+*.fits
+*.fit
+*.fits.gz
+*.fz
+
+# --- Editor and operating-system clutter --------------------------------
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

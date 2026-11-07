@@ -1,0 +1,339 @@
+object,scales_B,scales_V,status
+ASAS14ad,0.23,0.23,consistent
+ASAS14hp,0.23,0.23,consistent
+ASAS14hr,0.23,0.23,consistent
+ASAS14hu,0.23,"0.23,0.43",MISMATCH
+ASAS14jc,0.23,"0.23,0.43",MISMATCH
+ASAS14jg,0.23,0.23,consistent
+ASAS14jz,0.23,"0.23,0.43",MISMATCH
+ASAS14kd,-,0.43,missing one filter
+ASAS14kq,0.23,0.23,consistent
+ASAS14lo,-,0.43,missing one filter
+ASAS14lp,-,0.43,missing one filter
+ASAS14lq,0.159,0.159,consistent
+ASAS14lt,0.23,"0.23,0.43",MISMATCH
+ASAS14lw,-,0.43,missing one filter
+ASAS14me,0.23,"0.23,0.43",MISMATCH
+ASAS14mf,0.23,0.23,consistent
+ASAS14mw,-,0.159,missing one filter
+ASAS14my,0.23,0.23,consistent
+ASAS15aj,0.23,"0.23,0.43",MISMATCH
+ASAS15al,0.23,"0.23,0.43",MISMATCH
+ASAS15as,0.23,"0.23,0.43",MISMATCH
+ASAS15ba,0.23,"0.23,0.43",MISMATCH
+ASAS15be,0.23,"0.23,0.43",MISMATCH
+ASAS15bm,-,0.43,missing one filter
+ASAS15cb,0.23,"0.23,0.43",MISMATCH
+ASAS15cd,0.23,0.23,consistent
+ASAS15da,0.23,"0.23,0.43",MISMATCH
+ASAS15db,-,0.43,missing one filter
+ASAS15dd,0.23,"0.23,0.43",MISMATCH
+ASAS15eb,0.23,"0.23,0.43",MISMATCH
+ASAS15fr,0.23,"0.23,0.43",MISMATCH
+ASAS15ga,0.23,"0.23,0.43",MISMATCH
+ASAS15go,0.23,"0.23,0.43",MISMATCH
+ASAS15gr,0.23,"0.23,0.43",MISMATCH
+ASAS15hf,0.23,"0.23,0.43",MISMATCH
+ASAS15hg,0.23,"0.23,0.43",MISMATCH
+ASAS15hx,0.23,"0.23,0.43",MISMATCH
+CSP12F,0.23,"0.23,0.43",MISMATCH
+CSP12G,0.23,"0.23,0.43",MISMATCH
+CSP12J,0.23,0.23,consistent
+CSP12K,-,0.159,missing one filter
+CSP12M,0.23,"0.23,0.43",MISMATCH
+CSP12N,0.23,"0.23,0.43",MISMATCH
+CSP13B,0.23,"0.23,0.43",MISMATCH
+CSP13C,-,0.43,missing one filter
+CSP13G,-,0.43,missing one filter
+CSP13M,0.23,0.23,consistent
+CSP13N,0.23,0.23,consistent
+CSP13P,0.23,"0.23,0.43",MISMATCH
+CSP13Q,0.23,"0.23,0.43",MISMATCH
+CSP13U,0.23,"0.23,0.43",MISMATCH
+CSP13Y,0.23,"0.23,0.43",MISMATCH
+CSP13Z,-,0.43,missing one filter
+CSP13aad,0.23,"0.23,0.43",MISMATCH
+CSP13aae,-,0.159,missing one filter
+CSP13aaf,0.23,"0.23,0.43",MISMATCH
+CSP13aam,0.23,"0.23,0.43",MISMATCH
+CSP13aao,0.23,"0.23,0.43",MISMATCH
+CSP13aap,0.159,0.159,consistent
+CSP13aaq,0.23,0.23,consistent
+CSP13aaw,0.159,0.159,consistent
+CSP13aax,0.23,0.23,consistent
+CSP13aay,0.23,0.23,consistent
+CSP13ab,-,0.43,missing one filter
+CSP13aba,0.23,0.23,consistent
+CSP13abl,0.23,"0.23,0.43",MISMATCH
+CSP13abm,-,0.23,missing one filter
+CSP13abs,0.23,0.23,consistent
+CSP13ag,0.23,0.23,consistent
+CSP13al,-,"0.23,0.43",missing one filter
+CSP13am,0.23,0.23,consistent
+CSP13an,0.23,"0.23,0.43",MISMATCH
+CSP13ay,-,0.43,missing one filter
+CSP13bf,0.23,"0.23,0.43",MISMATCH
+CSP13bh,0.23,"0.23,0.43",MISMATCH
+CSP14aaa,0.23,0.23,consistent
+CSP14aab,0.23,0.23,consistent
+CSP14aal,0.23,0.23,consistent
+CSP14aaq,0.23,0.23,consistent
+CSP14aar,0.23,"0.23,0.43",MISMATCH
+CSP14aaw,0.23,"0.23,0.43",MISMATCH
+CSP14aax,0.23,0.23,consistent
+CSP14aay,0.23,0.23,consistent
+CSP14aba,0.23,0.23,consistent
+CSP14abf,0.23,"0.23,0.43",MISMATCH
+CSP14abh,-,"0.23,0.43",missing one filter
+CSP14abl,0.23,"0.23,0.43",MISMATCH
+CSP14abn,-,0.43,missing one filter
+CSP14acl,-,0.159,missing one filter
+CSP14acm,0.23,0.23,consistent
+CSP14acp,0.23,"0.23,0.43",MISMATCH
+CSP14acy,0.23,0.23,consistent
+CSP14adc,0.23,0.23,consistent
+CSP14ade,0.23,"0.23,0.43",MISMATCH
+CSP14adf,0.23,0.23,consistent
+CSP15B,0.23,"0.23,0.43",MISMATCH
+CSP15aae,-,0.43,missing one filter
+CSP15aaj,0.23,"0.23,0.43",MISMATCH
+CSP15aak,-,0.43,missing one filter
+KISS13j,-,0.43,missing one filter
+KISS13l,0.23,"0.23,0.43",MISMATCH
+KISS13v,0.23,"0.23,0.43",MISMATCH
+KISS15m,0.23,"0.23,0.43",MISMATCH
+KISS15n,-,0.159,missing one filter
+LSQ11bk,0.23,"0.23,0.43",MISMATCH
+LSQ11ot,0.23,0.23,consistent
+LSQ11pn,0.23,0.23,consistent
+LSQ12agq,0.23,"0.23,0.43",MISMATCH
+LSQ12aor,0.23,0.23,consistent
+LSQ12bld,0.23,"0.23,0.43",MISMATCH
+LSQ12blp,-,0.43,missing one filter
+LSQ12btn,0.23,"0.23,0.43",MISMATCH
+LSQ12ca,0.23,"0.23,0.43",MISMATCH
+LSQ12cda,0.23,"0.23,0.43",MISMATCH
+LSQ12cdl,0.23,"0.23,0.43",MISMATCH
+LSQ12fuk,0.23,0.23,consistent
+LSQ12fvl,0.23,0.23,consistent
+LSQ12fxd,0.23,0.23,consistent
+LSQ12gdj,0.23,0.23,consistent
+LSQ12gef,0.23,0.23,consistent
+LSQ12gln,0.23,0.23,consistent
+LSQ12gpw,0.23,0.23,consistent
+LSQ12gxj,0.23,0.23,consistent
+LSQ12gyc,0.23,"0.23,0.43",MISMATCH
+LSQ12gzm,0.23,"0.23,0.43",MISMATCH
+LSQ12hjm,0.23,0.23,consistent
+LSQ12hno,0.23,0.23,consistent
+LSQ12hnr,0.23,"0.23,0.43",MISMATCH
+LSQ12hvj,0.23,"0.23,0.43",MISMATCH
+LSQ12hxx,0.23,0.23,consistent
+LSQ12hzj,0.23,"0.23,0.43",MISMATCH
+LSQ12hzs,0.23,0.23,consistent
+LSQ13abo,-,0.43,missing one filter
+LSQ13aiz,-,0.43,missing one filter
+LSQ13cwp,0.23,0.23,consistent
+LSQ13dby,0.23,0.23,consistent
+LSQ13dcy,-,0.43,missing one filter
+LSQ13dhj,0.23,"0.23,0.43",MISMATCH
+LSQ13dkp,0.23,0.23,consistent
+LSQ13dpm,0.23,"0.23,0.43",MISMATCH
+LSQ13dqh,0.23,0.23,consistent
+LSQ13dsm,0.23,0.23,consistent
+LSQ13pf,-,0.43,missing one filter
+LSQ13ry,-,0.43,missing one filter
+LSQ13vy,-,0.43,missing one filter
+LSQ14act,0.23,0.23,consistent
+LSQ14age,0.23,0.23,consistent
+LSQ14ahc,0.23,0.23,consistent
+LSQ14ahm,0.23,0.23,consistent
+LSQ14ajn,0.23,"0.23,0.43",MISMATCH
+LSQ14asu,0.23,"0.23,0.43",MISMATCH
+LSQ14auy,0.23,0.23,consistent
+LSQ14azy,0.23,0.23,consistent
+LSQ14ba,0.23,0.23,consistent
+LSQ14bbv,0.23,0.23,consistent
+LSQ14bjj,0.23,0.23,consistent
+LSQ14fms,0.23,0.23,consistent
+LSQ14foj,0.23,0.23,consistent
+LSQ14fom,-,0.43,missing one filter
+LSQ14gfb,0.23,"0.23,0.43",MISMATCH
+LSQ14gfn,0.23,"0.23,0.43",MISMATCH
+LSQ14ghv,0.23,"0.23,0.43",MISMATCH
+LSQ14gov,0.23,0.23,consistent
+LSQ14ie,0.23,0.23,consistent
+LSQ14ip,0.23,0.23,consistent
+LSQ14jp,0.23,0.23,consistent
+LSQ14mc,0.23,0.23,consistent
+LSQ14q,0.23,0.23,consistent
+LSQ14wp,0.23,"0.23,0.43",MISMATCH
+LSQ14xi,0.23,0.23,consistent
+LSQ15aae,0.23,0.23,consistent
+LSQ15agh,0.23,0.23,consistent
+LSQ15aja,0.23,"0.23,0.43",MISMATCH
+LSQ15alq,0.23,"0.23,0.43",MISMATCH
+LSQ15bv,0.23,"0.23,0.43",MISMATCH
+PS1-14xw,-,0.43,missing one filter
+PS15sv,0.23,"0.23,0.43",MISMATCH
+PTF11pbp,0.23,"0.23,0.43",MISMATCH
+PTF11ppn,0.23,"0.23,0.43",MISMATCH
+PTF11pra,0.23,"0.23,0.43",MISMATCH
+PTF13anh,0.23,0.23,consistent
+PTF13duj,0.23,"0.23,0.43",MISMATCH
+PTF13dwl,0.23,0.23,consistent
+PTF13dym,0.23,0.23,consistent
+PTF13ebh,0.23,"0.23,0.43",MISMATCH
+PTF13efe,0.23,"0.23,0.43",MISMATCH
+PTF13ez,0.23,0.23,consistent
+PTF14aje,0.23,0.23,consistent
+PTF14fpg,0.23,"0.23,0.43",MISMATCH
+PTF14gnl,0.23,0.23,consistent
+PTF14uo,0.23,0.23,consistent
+PTF14w,0.23,"0.23,0.43",MISMATCH
+PTF14yy,0.23,0.23,consistent
+SN04dt,0.23,0.23,consistent
+SN04ef,0.23,0.23,consistent
+SN04eo,0.23,0.23,consistent
+SN04ey,0.23,0.23,consistent
+SN04gs,0.23,0.23,consistent
+SN04gu,0.23,0.23,consistent
+SN05A,0.23,0.23,consistent
+SN05M,0.23,0.23,consistent
+SN05W,0.23,0.23,consistent
+SN05ag,0.23,0.23,consistent
+SN05al,0.23,0.23,consistent
+SN05am,0.23,0.23,consistent
+SN05be,0.23,0.23,consistent
+SN05bg,0.23,0.23,consistent
+SN05bl,0.23,0.23,consistent
+SN05bo,0.23,0.23,consistent
+SN05el,0.23,0.23,consistent
+SN05eq,0.23,0.23,consistent
+SN05gj,-,0.23,missing one filter
+SN05hc,0.23,0.23,consistent
+SN05hj,0.23,0.23,consistent
+SN05hk,0.23,0.23,consistent
+SN05iq,0.23,0.23,consistent
+SN05ir,0.23,0.23,consistent
+SN05kc,0.23,0.23,consistent
+SN05ke,-,0.23,missing one filter
+SN05ki,-,0.23,missing one filter
+SN05ku,-,0.23,missing one filter
+SN05lu,0.23,0.23,consistent
+SN05mc,-,0.23,missing one filter
+SN05na,-,0.23,missing one filter
+SN06D,0.23,0.23,consistent
+SN06ax,0.23,0.23,consistent
+SN06bd,0.23,0.23,consistent
+SN06bh,-,0.23,missing one filter
+SN06br,0.23,-,missing one filter
+SN06bt,-,0.23,missing one filter
+SN06dd,-,0.23,missing one filter
+SN06ef,0.23,0.23,consistent
+SN06ej,0.23,0.23,consistent
+SN06eq,-,0.23,missing one filter
+SN06et,0.23,0.23,consistent
+SN06ev,-,0.23,missing one filter
+SN06fw,0.23,0.23,consistent
+SN06gj,-,0.23,missing one filter
+SN06gt,-,0.23,missing one filter
+SN06hb,-,0.23,missing one filter
+SN06hx,0.23,0.23,consistent
+SN06is,-,0.23,missing one filter
+SN06kf,0.23,0.23,consistent
+SN06lu,0.23,0.23,consistent
+SN06ob,-,0.23,missing one filter
+SN06os,0.23,0.23,consistent
+SN06ot,0.23,0.23,consistent
+SN06py,-,0.23,missing one filter
+SN07N,0.23,0.23,consistent
+SN07S,0.23,0.23,consistent
+SN07af,0.23,0.23,consistent
+SN07ai,-,0.23,missing one filter
+SN07al,0.23,0.23,consistent
+SN07as,0.23,0.23,consistent
+SN07ax,-,0.23,missing one filter
+SN07ba,0.23,0.23,consistent
+SN07bc,0.23,0.23,consistent
+SN07bd,0.23,0.23,consistent
+SN07bm,0.23,0.23,consistent
+SN07ca,0.23,0.23,consistent
+SN07cg,0.23,0.23,consistent
+SN07hj,0.23,0.23,consistent
+SN07hx,0.23,0.23,consistent
+SN07jd,0.23,0.23,consistent
+SN07jg,0.23,0.23,consistent
+SN07jh,0.23,0.23,consistent
+SN07le,0.23,0.23,consistent
+SN07nq,0.23,0.23,consistent
+SN07ol,0.23,0.23,consistent
+SN07on,0.23,0.23,consistent
+SN07so,0.23,0.23,consistent
+SN07st,0.23,0.23,consistent
+SN07ux,0.23,0.23,consistent
+SN08C,0.23,0.23,consistent
+SN08J,0.23,0.23,consistent
+SN08O,0.23,0.23,consistent
+SN08R,0.23,0.23,consistent
+SN08ae,0.23,0.23,consistent
+SN08ar,0.23,0.23,consistent
+SN08bc,0.23,0.23,consistent
+SN08bd,0.23,0.23,consistent
+SN08bi,0.23,0.23,consistent
+SN08bq,0.23,0.23,consistent
+SN08bt,0.23,0.23,consistent
+SN08bz,0.23,0.23,consistent
+SN08cc,0.23,0.23,consistent
+SN08cd,0.23,0.23,consistent
+SN08cf,0.23,0.23,consistent
+SN08fl,0.23,0.23,consistent
+SN08fp,0.23,0.23,consistent
+SN08fr,0.23,0.23,consistent
+SN08fu,0.23,0.23,consistent
+SN08fw,0.23,0.23,consistent
+SN08gg,0.23,0.23,consistent
+SN08gl,0.23,0.23,consistent
+SN08go,0.23,0.23,consistent
+SN08gp,0.23,0.23,consistent
+SN08ha,-,0.23,missing one filter
+SN08hj,0.23,0.23,consistent
+SN08hu,0.23,0.23,consistent
+SN08hv,-,0.23,missing one filter
+SN08ia,0.23,0.23,consistent
+SN09D,0.23,0.23,consistent
+SN09F,0.23,0.23,consistent
+SN09I,0.23,0.23,consistent
+SN09J,0.23,0.23,consistent
+SN09P,0.23,0.23,consistent
+SN09Y,0.23,0.23,consistent
+SN09aa,-,0.23,missing one filter
+SN09ab,0.23,0.23,consistent
+SN09ad,0.23,0.23,consistent
+SN09ag,0.23,0.23,consistent
+SN09al,0.23,0.23,consistent
+SN09cz,0.23,0.23,consistent
+SN09dc,0.23,0.23,consistent
+SN09ds,0.23,0.23,consistent
+SN09le,0.23,0.23,consistent
+SN10ae,0.23,0.23,consistent
+SN2011im,-,0.43,missing one filter
+SN2011iv,0.23,"0.23,0.43",MISMATCH
+SN2011iy,0.23,"0.23,0.43",MISMATCH
+SN2011jh,0.23,"0.23,0.43",MISMATCH
+SN2011jn,0.23,0.23,consistent
+SN2011jt,0.23,"0.23,0.43",MISMATCH
+SN2012E,0.23,"0.23,0.43",MISMATCH
+SN2012G,0.23,0.23,consistent
+SN2012U,0.23,"0.23,0.43",MISMATCH
+SN2012aq,0.23,0.23,consistent
+SN2012ar,0.23,"0.23,0.43",MISMATCH
+SN2012bl,0.23,"0.23,0.43",MISMATCH
+SN2012bo,0.23,"0.23,0.43",MISMATCH
+SN2012fr,0.23,"0.23,0.43",MISMATCH
+SN2012gm,0.23,0.23,consistent
+SN2012hl,0.23,0.23,consistent
+SN2012id,0.23,0.23,consistent
+SN2012ij,0.23,0.23,consistent
+SN2013fy,0.23,"0.23,0.43",MISMATCH
+SN2013hn,0.23,0.23,consistent

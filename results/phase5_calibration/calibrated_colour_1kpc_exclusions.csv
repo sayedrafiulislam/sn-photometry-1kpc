@@ -1,0 +1,116 @@
+object,stage,reason
+LSQ12gef,zero point,"B invalid: zp non-finite, zp_err non-finite, n_ref_stars=0"
+SN07af,photometry,no du Pont flux at the fiducial radius
+SN10ae,photometry,no du Pont flux at the fiducial radius
+SN2011iy,photometry,no du Pont flux at the fiducial radius
+CSP13aam,photometry,non-positive flux at the fiducial radius
+KISS15m,photometry,non-positive flux at the fiducial radius
+LSQ12cda,photometry,non-positive flux at the fiducial radius
+LSQ12gef,photometry,non-positive flux at the fiducial radius
+LSQ12gzm,photometry,non-positive flux at the fiducial radius
+LSQ13dby,photometry,non-positive flux at the fiducial radius
+LSQ13dkp,photometry,non-positive flux at the fiducial radius
+LSQ14ip,photometry,non-positive flux at the fiducial radius
+SN08gg,photometry,non-positive flux at the fiducial radius
+SN09D,photometry,non-positive flux at the fiducial radius
+SN09al,photometry,non-positive flux at the fiducial radius
+SN2012ar,photometry,non-positive flux at the fiducial radius
+SN2012fr,photometry,non-positive flux at the fiducial radius
+SN2013hn,photometry,non-positive flux at the fiducial radius
+ASAS14lq,zero point,no du Pont zero point available for this object
+SN04dt,zero point,no du Pont zero point available for this object
+SN04ef,zero point,no du Pont zero point available for this object
+SN04eo,zero point,no du Pont zero point available for this object
+SN04ey,zero point,no du Pont zero point available for this object
+SN04gs,zero point,no du Pont zero point available for this object
+SN04gu,zero point,no du Pont zero point available for this object
+SN05A,zero point,no du Pont zero point available for this object
+SN05M,zero point,no du Pont zero point available for this object
+SN05W,zero point,no du Pont zero point available for this object
+SN05ag,zero point,no du Pont zero point available for this object
+SN05al,zero point,no du Pont zero point available for this object
+SN05am,zero point,no du Pont zero point available for this object
+SN05be,zero point,no du Pont zero point available for this object
+SN05bg,zero point,no du Pont zero point available for this object
+SN05bl,zero point,no du Pont zero point available for this object
+SN05bo,zero point,no du Pont zero point available for this object
+SN05el,zero point,no du Pont zero point available for this object
+SN05eq,zero point,no du Pont zero point available for this object
+SN05hc,zero point,no du Pont zero point available for this object
+SN05hj,zero point,no du Pont zero point available for this object
+SN05hk,zero point,no du Pont zero point available for this object
+SN05iq,zero point,no du Pont zero point available for this object
+SN05ir,zero point,no du Pont zero point available for this object
+SN05kc,zero point,no du Pont zero point available for this object
+SN05lu,zero point,no du Pont zero point available for this object
+SN06D,zero point,no du Pont zero point available for this object
+SN06ax,zero point,no du Pont zero point available for this object
+SN06bd,zero point,no du Pont zero point available for this object
+SN06ef,zero point,no du Pont zero point available for this object
+SN06ej,zero point,no du Pont zero point available for this object
+SN06et,zero point,no du Pont zero point available for this object
+SN06fw,zero point,no du Pont zero point available for this object
+SN06hx,zero point,no du Pont zero point available for this object
+SN06kf,zero point,no du Pont zero point available for this object
+SN06lu,zero point,no du Pont zero point available for this object
+SN06os,zero point,no du Pont zero point available for this object
+SN06ot,zero point,no du Pont zero point available for this object
+SN07N,zero point,no du Pont zero point available for this object
+SN07S,zero point,no du Pont zero point available for this object
+SN07al,zero point,no du Pont zero point available for this object
+SN07as,zero point,no du Pont zero point available for this object
+SN07ba,zero point,no du Pont zero point available for this object
+SN07bc,zero point,no du Pont zero point available for this object
+SN07bd,zero point,no du Pont zero point available for this object
+SN07bm,zero point,no du Pont zero point available for this object
+SN07ca,zero point,no du Pont zero point available for this object
+SN07cg,zero point,no du Pont zero point available for this object
+SN07hj,zero point,no du Pont zero point available for this object
+SN07hx,zero point,no du Pont zero point available for this object
+SN07jd,zero point,no du Pont zero point available for this object
+SN07jg,zero point,no du Pont zero point available for this object
+SN07jh,zero point,no du Pont zero point available for this object
+SN07le,zero point,no du Pont zero point available for this object
+SN07nq,zero point,no du Pont zero point available for this object
+SN07ol,zero point,no du Pont zero point available for this object
+SN07on,zero point,no du Pont zero point available for this object
+SN07so,zero point,no du Pont zero point available for this object
+SN07st,zero point,no du Pont zero point available for this object
+SN07ux,zero point,no du Pont zero point available for this object
+SN08C,zero point,no du Pont zero point available for this object
+SN08J,zero point,no du Pont zero point available for this object
+SN08O,zero point,no du Pont zero point available for this object
+SN08R,zero point,no du Pont zero point available for this object
+SN08ae,zero point,no du Pont zero point available for this object
+SN08ar,zero point,no du Pont zero point available for this object
+SN08bc,zero point,no du Pont zero point available for this object
+SN08bd,zero point,no du Pont zero point available for this object
+SN08bi,zero point,no du Pont zero point available for this object
+SN08bq,zero point,no du Pont zero point available for this object
+SN08bt,zero point,no du Pont zero point available for this object
+SN08bz,zero point,no du Pont zero point available for this object
+SN08cc,zero point,no du Pont zero point available for this object
+SN08cd,zero point,no du Pont zero point available for this object
+SN08cf,zero point,no du Pont zero point available for this object
+SN08fl,zero point,no du Pont zero point available for this object
+SN08fp,zero point,no du Pont zero point available for this object
+SN08fr,zero point,no du Pont zero point available for this object
+SN08fu,zero point,no du Pont zero point available for this object
+SN08fw,zero point,no du Pont zero point available for this object
+SN08gl,zero point,no du Pont zero point available for this object
+SN08go,zero point,no du Pont zero point available for this object
+SN08gp,zero point,no du Pont zero point available for this object
+SN08hj,zero point,no du Pont zero point available for this object
+SN08hu,zero point,no du Pont zero point available for this object
+SN08ia,zero point,no du Pont zero point available for this object
+SN09F,zero point,no du Pont zero point available for this object
+SN09I,zero point,no du Pont zero point available for this object
+SN09P,zero point,no du Pont zero point available for this object
+SN09Y,zero point,no du Pont zero point available for this object
+SN09ab,zero point,no du Pont zero point available for this object
+SN09ad,zero point,no du Pont zero point available for this object
+SN09ag,zero point,no du Pont zero point available for this object
+SN09cz,zero point,no du Pont zero point available for this object
+SN09dc,zero point,no du Pont zero point available for this object
+SN09ds,zero point,no du Pont zero point available for this object
+SN09le,zero point,no du Pont zero point available for this object
